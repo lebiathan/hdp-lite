@@ -1,7 +1,6 @@
 # hdp-lite
 
 @Author: George Valkanas (aka lebiathan)
-
 @Date: 15 June 2015
 
 A light version of hadoop (name inspired by sql-lite), for parallel / distributed processing on a single machine or more. Unlike Apache Hadoop, hdp-lite does not require infrastructure setup, only the inclusion of a single jar file in the classpath, and has direct access to the underlying file system.
